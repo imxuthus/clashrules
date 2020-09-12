@@ -1,3 +1,5 @@
+payload:  
+# > UserRule
 #userdefine rule
 - DOMAIN-SUFFIX,battlenet.com,DIRECT #战网
 - DOMAIN-SUFFIX,battle.net,DIRECT #战网
