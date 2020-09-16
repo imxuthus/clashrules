@@ -1,5 +1,6 @@
 bypass:
   - localhost
+  - "*.cn"
   - "*.battlenet.com"
   - "*.battle.net"
   - "*.battlenet.com.cn"
@@ -8,7 +9,7 @@ bypass:
   - "*.blzstatic.com"
   - "*.blizzardgames.cn"
   - "*.blizzard.com"
-  - "*microsoft.com"
+  - "*.microsoft.com"
   - "*.microsoftstore.com.cn"
   - "*.outlook.com"
   - "*.hotmail.com"
@@ -28,7 +29,12 @@ bypass:
   - "*.qlogo.cn"
   - "*.qpic.cn"
   - "*.sogou.com"
+  - "*.sogoucdn.com"
+  - "*.netease.com"
+  - "*.yeah.net"
   - "*.163.com"
+  - "*.127.net"
+  - "*.126.com"
   - "*.126.net"
   - "*.xunlei.com"
   - "*.88cdn.com"
@@ -53,6 +59,10 @@ bypass:
   - "*.bilivideo.cn"
   - "*.biliapi.net"
   - "*.hdslb.com"
+  - "*.sina.com.cn"
+  - "*.sinajs.cn"
+  - "*.sinaimg.cn"
+  - "*.weibo.com"
   - 127.*
   - 10.*
   - 172.16.*
@@ -73,3 +83,4 @@ bypass:
   - 172.31.*
   - 192.168.*
   - <local>
+  
