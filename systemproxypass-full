@@ -66,7 +66,9 @@ bypass:
   - "*.hdslb.com"
   - "*.im9.com"
   # Acfun
-  - "*.acfun.cn"
+  - "*.aixifan.com"
+  - "*.yximgs.com"
+  - "*.gifshow.com"
   # Blizzard
   - "*.battle.net"
   - "*battlenet*"
@@ -150,7 +152,6 @@ bypass:
   - "*.xunlei.com"
   # Microsoft
   - "*.microsoft.com"
-  - "*.microsoftstore.com.cn"
   - "*.outlook.com"
   - "*.hotmail.com"
   - "*.live.com"
@@ -162,7 +163,6 @@ bypass:
   - "*.office365.com"
   - "*.skype.com"
   - "*.windowsupdate.com"
-  - "*.azure.cn"
   - "*.azureedge.net"
   # Adobe
   - "*.adobe.com"
